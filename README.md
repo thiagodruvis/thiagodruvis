@@ -1,7 +1,7 @@
 ### Ola eu sou o thiagodruvis 👋
 
 - 🌱 Estudando Ciência de dados
-- 😄 Pronouns: ele/dele
+- 😄 Pronome: ele/dele
 - ⚡ apaixonado por futebol
 
 <div align="center">
